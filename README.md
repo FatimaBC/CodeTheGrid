@@ -8,7 +8,7 @@ Also you can see different stadistics that allow to me to have the predictions a
 - Wins
 - Outliers in Lap Times
 - Turns
-- Performnace
+- Performance
 - Weather
 - Precision
 - Accuracy
